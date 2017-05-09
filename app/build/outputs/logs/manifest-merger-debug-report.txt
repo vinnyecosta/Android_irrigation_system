@@ -1,0 +1,117 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:8:5-34:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vinny/.android/build-cache/5d48437159e60f33c64d1be222608f6592a764af/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] /home/vinny/.android/build-cache/324fbab97e3e443fff19f19bf175f2f2e556a79c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vinny/.android/build-cache/7516f5677595490d939a18ae989cd78971644f20/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vinny/.android/build-cache/8ffdc0c5a3502fb4f71d8f5703d1cd2a5848c677/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/vinny/.android/build-cache/180bbc7b59938e738fb93fff386bb169a7d20d9b/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/vinny/.android/build-cache/823fdcb93287075ca921890bdd3c189084d80786/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vinny/.android/build-cache/d5e83beff752e70e2ffe511556d65f696fa124c8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vinny/.android/build-cache/9fe9f30a9a70a297699d7c630de5171534d1037e/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vinny/.android/build-cache/dfa43ef58c0367f9af61189bf9d3b18881642d0a/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vinny/.android/build-cache/540a043c33391bd32c120ed8b716bd7506b9aad9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/vinny/.android/build-cache/e0b6439ae211b6f19d24c29f4d344e5e69755c28/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:9:9-36
+activity#com.example.vinny.test2.Init_main
+ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:16:19-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:20:27-74
+activity#com.example.vinny.test2.MainActivity
+ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:23:9-29:20
+	android:name
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:23:19-47
+activity#com.example.vinny.test2.MainTabActivity
+ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:30:9-33:56
+	android:label
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:32:13-60
+	android:theme
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:33:13-44
+	android:name
+		ADDED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml:31:13-44
+uses-sdk
+INJECTED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vinny/.android/build-cache/5d48437159e60f33c64d1be222608f6592a764af/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] /home/vinny/.android/build-cache/324fbab97e3e443fff19f19bf175f2f2e556a79c/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vinny/.android/build-cache/7516f5677595490d939a18ae989cd78971644f20/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vinny/.android/build-cache/8ffdc0c5a3502fb4f71d8f5703d1cd2a5848c677/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/vinny/.android/build-cache/8212393ac355843d1d82813a25293cbc921b05bb/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/vinny/.android/build-cache/180bbc7b59938e738fb93fff386bb169a7d20d9b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/vinny/.android/build-cache/823fdcb93287075ca921890bdd3c189084d80786/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vinny/.android/build-cache/d5e83beff752e70e2ffe511556d65f696fa124c8/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vinny/.android/build-cache/9fe9f30a9a70a297699d7c630de5171534d1037e/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vinny/.android/build-cache/dfa43ef58c0367f9af61189bf9d3b18881642d0a/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vinny/.android/build-cache/540a043c33391bd32c120ed8b716bd7506b9aad9/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/vinny/.android/build-cache/e0b6439ae211b6f19d24c29f4d344e5e69755c28/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/vinny/.android/build-cache/324fbab97e3e443fff19f19bf175f2f2e556a79c/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/vinny/Desktop/Irrigation_system_android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/vinny/.android/build-cache/324fbab97e3e443fff19f19bf175f2f2e556a79c/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/vinny/.android/build-cache/7516f5677595490d939a18ae989cd78971644f20/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/vinny/.android/build-cache/8ffdc0c5a3502fb4f71d8f5703d1cd2a5848c677/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/vinny/.android/build-cache/8212393ac355843d1d82813a25293cbc921b05bb/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/vinny/.android/build-cache/180bbc7b59938e738fb93fff386bb169a7d20d9b/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/vinny/.android/build-cache/823fdcb93287075ca921890bdd3c189084d80786/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/vinny/.android/build-cache/d5e83beff752e70e2ffe511556d65f696fa124c8/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/vinny/.android/build-cache/9fe9f30a9a70a297699d7c630de5171534d1037e/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/vinny/.android/build-cache/dfa43ef58c0367f9af61189bf9d3b18881642d0a/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/vinny/.android/build-cache/540a043c33391bd32c120ed8b716bd7506b9aad9/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/vinny/.android/build-cache/e0b6439ae211b6f19d24c29f4d344e5e69755c28/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/vinny/.android/build-cache/324fbab97e3e443fff19f19bf175f2f2e556a79c/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/vinny/.android/build-cache/324fbab97e3e443fff19f19bf175f2f2e556a79c/output/AndroidManifest.xml:26:9-47

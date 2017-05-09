@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

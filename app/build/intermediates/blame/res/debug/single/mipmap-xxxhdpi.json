@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/vinny/Desktop/Irrigation_system_android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/vinny/Desktop/Irrigation_system_android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]
