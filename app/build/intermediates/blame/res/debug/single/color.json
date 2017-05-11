@@ -1,90 +1,90 @@
 [
     {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
-        "source": "/home/vinny/.android/build-cache/324fbab97e3e443fff19f19bf175f2f2e556a79c/output/res/color/design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/design_error.xml",
-        "source": "/home/vinny/.android/build-cache/324fbab97e3e443fff19f19bf175f2f2e556a79c/output/res/color/design_error.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_tint_edittext.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_tint_default.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_search_url_text.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_dark.xml",
         "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_btn_colored_text_material.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_tint_switch_track.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/design_tint_password_toggle.xml",
+        "source": "/home/vinny/.android/build-cache/324fbab97e3e443fff19f19bf175f2f2e556a79c/output/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_tint_spinner.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_tint_seek_thumb.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_tint_default.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_tint_edittext.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_tint_btn_checkable.xml",
         "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_tint_switch_thumb.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/design_error.xml",
+        "source": "/home/vinny/.android/build-cache/324fbab97e3e443fff19f19bf175f2f2e556a79c/output/res/color/design_error.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color/abc_hint_foreground_material_light.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color/abc_hint_foreground_material_light.xml"
     }
 ]

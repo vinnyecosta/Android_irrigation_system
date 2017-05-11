@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]

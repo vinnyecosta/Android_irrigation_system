@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
-        "source": "/home/vinny/Desktop/Irrigation_system_android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/vinny/Desktop/Android_irrigation_system/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
-        "source": "/home/vinny/Desktop/Irrigation_system_android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/home/vinny/Desktop/Android_irrigation_system/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
     }
 ]

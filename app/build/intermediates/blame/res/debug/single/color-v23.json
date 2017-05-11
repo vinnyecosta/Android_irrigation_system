@@ -1,46 +1,46 @@
 [
     {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_color_highlight_material.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
         "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_tint_default.xml"
     },
     {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_tint_btn_checkable.xml"
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_tint_spinner.xml"
-    },
-    {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
         "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
-        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_tint_edittext.xml"
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
         "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_tint_switch_track.xml"
     },
     {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
         "source": "/home/vinny/.android/build-cache/324fbab97e3e443fff19f19bf175f2f2e556a79c/output/res/color-v23/design_tint_password_toggle.xml"
     },
     {
-        "merged": "/home/vinny/Desktop/Irrigation_system_android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/vinny/Desktop/Android_irrigation_system/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
         "source": "/home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/res/color-v23/abc_tint_switch_thumb.xml"
     }
 ]
