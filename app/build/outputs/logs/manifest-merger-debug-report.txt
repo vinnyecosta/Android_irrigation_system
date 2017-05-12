@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:2:1-36:12
+ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:2:1-43:12
 	package
 		ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:3:5-38
 		INJECTED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml
@@ -22,7 +22,7 @@ ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidMan
 	android:name
 		ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:6:22-76
 application
-ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:8:5-34:19
+ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:8:5-41:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vinny/.android/build-cache/5d48437159e60f33c64d1be222608f6592a764af/output/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] /home/vinny/.android/build-cache/324fbab97e3e443fff19f19bf175f2f2e556a79c/output/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /home/vinny/.android/build-cache/279d0373e0b9a9da6f04088fc04886fc25ec442a/output/AndroidManifest.xml:29:5-20
@@ -67,14 +67,18 @@ activity#com.example.vinny.test2.MainActivity
 ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:23:9-29:20
 	android:name
 		ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:23:19-47
-activity#com.example.vinny.test2.MainTabActivity
-ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:30:9-33:56
-	android:label
-		ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:32:13-60
-	android:theme
-		ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:33:13-44
+activity#com.example.vinny.test2.List_View_init
+ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:30:9-36:20
 	android:name
-		ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:31:13-44
+		ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:30:19-49
+activity#com.example.vinny.test2.MainTabActivity
+ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:37:9-40:56
+	android:label
+		ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:39:13-60
+	android:theme
+		ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:40:13-44
+	android:name
+		ADDED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml:38:13-44
 uses-sdk
 INJECTED from /home/vinny/Desktop/Android_irrigation_system/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/vinny/.android/build-cache/5d48437159e60f33c64d1be222608f6592a764af/output/AndroidManifest.xml:5:5-7:41

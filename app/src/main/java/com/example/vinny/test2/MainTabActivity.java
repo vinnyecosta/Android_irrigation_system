@@ -24,7 +24,7 @@ import java.util.Arrays;
 
 public class MainTabActivity extends AppCompatActivity {
 Toolbar toolbar;
-
+    ArrayList<String> listViewValues;
     TabLayout tabLayout;
     @Override
 //    private ArrayList<String> arraylist;
@@ -35,8 +35,8 @@ Toolbar toolbar;
         setContentView(R.layout.main_tab_activity);
         toolbar = (Toolbar) findViewById(R.id.app_bar);
         setSupportActionBar(toolbar);
-
-//        ListView listview = (ListView) findViewById(R.id.list);
+        listViewValues = new ArrayList<String>(Arrays.asList(""));
+//        List_View_init listview = (List_View_init) findViewById(R.id.list);
 //        String[] items={"Apples","Banana","Grape"};
 //        arraylist = new ArrayList<>(Arrays.asList(items));
 //        adapter = new ArrayAdapter<String>(this,R.layout.list_item, R.id.txtitem, arraylist);
@@ -212,11 +212,32 @@ Toolbar toolbar;
     }
 
     public void SaveTime(View view) {
+        EditText editText;
+        ArrayAdapter<String> adapter;
+
+        ListView listView;
+
+        listView = (ListView) findViewById(R.id.list);
+        editText = (EditText) findViewById(R.id.editText2);
+
+        String[] values = new String[] {
+        };
+        // Define a new Adapter
+        // First parameter - Context
+        // Second parameter - Layout for the row
+        // Third parameter - ID of the TextView to which the data is written
+        // Forth - the Array of data
+        adapter = new ArrayAdapter<String>(this,
+                android.R.layout.simple_list_item_1, android.R.id.text1, listViewValues);
+
+
+        // Assign adapter to ListView
+        listView.setAdapter(adapter);
 
         // Set the current tab being used
         ((MyVariables) this.getApplicationContext()).setTabday_f(tabLayout.getSelectedTabPosition());
         //TODO SEND INFO TO ESP8266 AT THIS POINT
-
+        listViewValues.add(editText.getText().toString());
 
     }
 }

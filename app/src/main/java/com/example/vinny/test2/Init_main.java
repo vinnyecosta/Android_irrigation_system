@@ -1,6 +1,5 @@
 package com.example.vinny.test2;
 
-import android.app.Application;
 import android.content.Intent;
 import android.os.Build;
 import android.support.annotation.RequiresApi;
@@ -10,7 +9,7 @@ import android.view.View;
 
 public class Init_main extends AppCompatActivity {
 
-    @RequiresApi(api = Build.VERSION_CODES.N)
+    //@RequiresApi(api = Build.VERSION_CODES.N)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -31,6 +30,11 @@ public class Init_main extends AppCompatActivity {
         TimePickerFragment newFragment = new TimePickerFragment();
         newFragment.show(getSupportFragmentManager(), "timePicker");
     }
+
+    public void showListView(View view) {
+        startActivity(new Intent(getApplicationContext(), List_View_init.class));
+    }
+
 }
 ;
 //class SetTime implements View.OnFocusChangeListener, TimePickerDialog.OnTimeSetListener{

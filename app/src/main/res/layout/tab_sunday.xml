@@ -20,6 +20,14 @@
                 android:layout_alignParentTop="true"
                 android:onClick="Show_timer"
                 android:text="ENABLE" />
+
+            <EditText
+                android:id="@+id/editText2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:text="Name" />
         </TableRow>
 
         <TableRow
